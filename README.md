@@ -1,5 +1,4 @@
-[![MasterHead](https://www.freepik.com/premium-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_2436829.html)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Rakesh</h1>
+[![MasterHead](https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif)](https://rishavchana.io)<h1 align="center">Hi 👋, I'm Rakesh</h1>
 <h3 align="center">A passionate frontend developer and a Data science from India</h3>
 
 <img align="right" alt ="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
